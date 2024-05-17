@@ -10,7 +10,7 @@ This is a Netflix clone project developed using React and Firebase. The applicat
 
 ## Live Demo
 
-Check out the live demo of the application [here](https://netflix-clone1.netlify.app).
+Check out the live demo of the application [here](https://netfixxxx-clone1.netlify.app).
 
 ## Technologies Used
 
